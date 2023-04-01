@@ -1,4 +1,4 @@
-package ConcurrencyPDPNew.src.main.java.com.example.concurrencypdp;
+package Concurrency;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,5 @@
-package ConcurrencyPDPNew.src.main.java.com.example.concurrencypdp;
+package Concurrency;
 
-import java.sql.SQLOutput;
 import java.util.concurrent.Callable;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
